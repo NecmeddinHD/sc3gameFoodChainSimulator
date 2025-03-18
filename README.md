@@ -1,2 +1,3 @@
-# sc3gameFoodChainSimulator
-Food Chain Simulator
+NecmeddinGencan Tarafından Yapılmıştır
+#FoodChainSimulator
+LICENSE : Apache 2.0
